@@ -1,5 +1,5 @@
 {
-  "name": "lockfile-diff",
+  "name": "raynos-lockfile-diff",
   "version": "0.0.10",
   "description": "human readable shrinkwrap / package-lock diff",
   "main": "./src/diffContent",
